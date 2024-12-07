@@ -1,4 +1,4 @@
-package math
+package feature
 
 func Add(a, b int) int {
 	return a + b
